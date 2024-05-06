@@ -48,3 +48,8 @@ planet-information-slider/
     ├── saturn.jpg
     ├── uranus.jpg
     └── neptune.jpg
+
+## Demo
+
+<img width="911" alt="Planets" src="https://github.com/Chakilamsrikanth/Planets-Information/assets/147283839/32d9a179-af58-42fb-acc3-1763227efea6">
+
